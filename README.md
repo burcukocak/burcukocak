@@ -2,13 +2,7 @@
 <h3 align="center">A passionate frontend developer from Türkiye</h3>
 
 - 🔭 I’m currently working on **Flutter**
-
 - 🌱 I’m currently learning **web development**
-
-- 📝 I regularly write articles on [@codewithburcu](@codewithburcu)
-
-- 💬 Ask me about **flutter**
-
 - 📫 How to reach me **bburcukcak@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
