@@ -1,5 +1,4 @@
-
-<a href="https://resimlink.com/7yoGRASFu" title="ResimLink - Resim Yükle"><img src="https://r.resimlink.com/7yoGRASFu.png" title="ResimLink - Resim Yükle" alt="ResimLink - Resim Yükle"></a>
+<a href="https://resimlink.com/t-EwG0" title="ResimLink - Resim Yükle"><img src="https://r.resimlink.com/t-EwG0.png" title="ResimLink - Resim Yükle" alt="ResimLink - Resim Yükle"></a>
 <h1 align="center">Hi 👋, I'm Burcu Koçak</h1>
 <h3 align="center">A passionate frontend developer from Türkiye</h3>
 
