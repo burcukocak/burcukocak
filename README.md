@@ -1,4 +1,5 @@
-https://www.canva.com/design/DAFzOaZAmz4/_oVxdIs8myQaeRqhvCaJ9g/view?utm_content=DAFzOaZAmz4&utm_campaign=designshare&utm_medium=link&utm_source=editor
+
+<a href="https://resimlink.com/7yoGRASFu" title="ResimLink - Resim Yükle"><img src="https://r.resimlink.com/7yoGRASFu.png" title="ResimLink - Resim Yükle" alt="ResimLink - Resim Yükle"></a>
 <h1 align="center">Hi 👋, I'm Burcu Koçak</h1>
 <h3 align="center">A passionate frontend developer from Türkiye</h3>
 
