@@ -5,15 +5,13 @@
 
 - 🌱 I’m currently learning **web development**
 
-- 📝 I regularly write articles on [https://www.instagram.com/codewithburcu/](https://www.instagram.com/codewithburcu/)
-
 - 💬 Ask me about **flutter**
 
 - 📫 How to reach me **bburcukcak@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/burcu-ko%c3%a7ak-261513213/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/burcu-ko%c3%a7ak-261513213/" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/burcu koçak" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="burcu koçak" height="30" width="40" /></a>
 <a href="https://instagram.com/codewithburcu" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="codewithburcu" height="30" width="40" /></a>
 </p>
 
